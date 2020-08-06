@@ -1,0 +1,4 @@
+For this project, I have used The neighborhood data of New Orleans from the following wikipedia page:
+https://en.wikipedia.org/wiki/Neighborhoods_in_New_Orleans
+
+This page consists of a table with the neighborhoods of New Orleans and their respective coordinates, and further in the notebook, we access the Nearby venues of a given coordinate using Foursquare API.
